@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+.loginbackground{
+
+  background: #004085;
+}
+.center {
+  margin: auto;
+  margin-top: 10% !important;
+  width: 50%;
+
+}
+.width-100
+{
+  width: 100%;
+}
+.boxstyle{
+
+  border-radius: 25px;
+  /*width: 200px;*/
+  height:350px;
+  padding:2.2rem;
+  opacity: 1;
+  background: #e6dada80;
+  box-shadow: 1px 0px 9px 0px rgba(105, 94, 105, 0.33);
+}
